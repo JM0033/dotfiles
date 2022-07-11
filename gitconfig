@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jm0033@tutamail.com
+	name = JM0033
